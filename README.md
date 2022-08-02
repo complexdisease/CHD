@@ -1,2 +1,2 @@
 # CHD
-random walk on unweigted network
+Random-walk on Unweighted Network
